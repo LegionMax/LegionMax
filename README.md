@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Manish 👋</h1>
 
-<h5 align="center">I am a B.Tech Computer Science and Engineering Graduate. I like to code, design, innovate, and experiment. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas, and spreading knowledge and positivity.</h5>
+<h4 align="center">I am a B.Tech Computer Science and Engineering Graduate. I like to code, design, innovate, and experiment. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas, and spreading knowledge and positivity.</h4>
 
-### Technologies and Tools
+### 💻 Technologies and Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" alt="mongodb logo" />
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" alt="vscode logo" />
 </div>
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LegionMax&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
@@ -36,18 +36,18 @@
 </div>
 
 
-### Fun Stuff
+### 🎉 Fun Stuff
 
 ![Snake animation](https://raw.githubusercontent.com/LegionMax/LegionMax/output/snake.svg?palette=github-dark)
 
 
-### Profile Visits
+###  Profile Visits
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/LegionMax/count.svg?" alt="Profile Counter" />
 </div>
 
-### Connect with Me
+### 📬 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
