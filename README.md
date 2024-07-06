@@ -36,7 +36,10 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/LegionMax/LegionMax/main/dist/snake.svg" alt="Snake animation" />
+### Fun Stuff
+
+![Snake animation](https://raw.githubusercontent.com/LegionMax/LegionMax/output/dist/snake.svg?palette=github-dark)
+
 
 ### Profile Visits
 
