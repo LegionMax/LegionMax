@@ -36,7 +36,7 @@
 </div>
 
 
-![Snake animation](https://raw.githubusercontent.com/LegionMax/LegionMax/output/dist/snake.svg?palette=github-dark)
+<img src="https://raw.githubusercontent.com/LegionMax/LegionMax/main/dist/snake.svg" alt="Snake animation" />
 
 ### Profile Visits
 
