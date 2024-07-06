@@ -38,7 +38,7 @@
 
 ### Fun Stuff
 
-![Snake animation](https://raw.githubusercontent.com/LegionMax/LegionMax/output/dist/snake.svg?palette=github-dark)
+![Snake animation](https://raw.githubusercontent.com/LegionMax/LegionMax/output/snake.svg?palette=github-dark)
 
 
 ### Profile Visits
